@@ -1,0 +1,11 @@
+{
+  "name": "sns-event-collector",
+  "version": "0.0.1",
+  "description": "Sends event-collector's event log to SNS topic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sander Huijsen <sander.huijsen@gmail.com>",
+  "license": "MIT"
+}
